@@ -1,9 +1,9 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/xsbki1rrxo2nh3fy/branch/master?svg=true)](https://ci.appveyor.com/project/RamblingCookieMonster/invoke-parallel/branch/master)
 
-Invoke-Parallel
+Invoke-Parallel Module
 ==========
 
-This function will take in a script or scriptblock, and run it against specified objects(s) in parallel.  It uses runspaces, as there are many situations where jobs or PSRemoting are not appropriate.
+This module will take in a script or scriptblock, and run it against specified objects(s) in parallel.  It uses runspaces, as there are many situations where jobs or PSRemoting are not appropriate.
 
 # Instructions
 
