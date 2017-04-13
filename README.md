@@ -8,10 +8,7 @@ This function will take in a script or scriptblock, and run it against specified
 # Instructions
 
 ```powershell
-# Download and unblock the file(s).
-# Dot source the file.
-    . "\\Path\To\Invoke-Parallel.ps1"
-
+# Download and install module.
 
 # Get help for the function
     Get-Help Invoke-Parallel -Full
@@ -68,8 +65,6 @@ This function will take in a script or scriptblock, and run it against specified
 
     }
 ```
-
-Some outdated notes and details are available on the [TechNet Galleries submission](http://gallery.technet.microsoft.com/Run-Parallel-Parallel-377fd430).
 
 # Help!
 
